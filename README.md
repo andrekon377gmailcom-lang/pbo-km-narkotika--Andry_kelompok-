@@ -34,7 +34,7 @@ mvn javafx:run
 ## Video Demo
 
 Link Youtube:
-(Belum ditambahkan)
+( )
 
 ## Dataset
 
