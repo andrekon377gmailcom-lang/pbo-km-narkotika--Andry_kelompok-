@@ -44,4 +44,4 @@ Dataset tersimpan pada folder `dataset`.
 
 1. ANDRY AZIZ – 202510370110048
 2. Muhammad Satria Mukti Wibawa –  202510370110009
-3. -
+3. Muhammad Zaki Adra Ferdinand – 202510370220325
